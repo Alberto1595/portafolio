@@ -8,7 +8,7 @@ Estudiante de Seguridad en Tecnologías de la Información, enfocado en:
 - Automatización con Python
 - Desarrollo de soluciones a gran escala
 
-## 🎓 Certificaciones
+## Certificaciones
 | Certificación | Proveedor | Estado | Evidencia |
 |---|---|---|---|
 | FAF – Fortinet Associate Fundamentals | Fortinet Training Institute | Completada | Ver en /Certificaciones/Fortinet |
@@ -17,10 +17,10 @@ Estudiante de Seguridad en Tecnologías de la Información, enfocado en:
 
 ➡️ [Ver carpeta de Certificaciones](./Certificaciones/README.md)
 
-## 📁 Estructura del repositorio
+## Estructura del repositorio
 - `/Certificaciones` → Evidencia y detalle
 - `/assets` → Recursos visuales
 - `/Proyectos` → (Fase 2)
 
-## 📫 Contacto
+## Contacto
 LinkedIn: https://www.linkedin.com/in/alberto-alanis-b59651331/
