@@ -112,5 +112,16 @@ Arquitectura orientada a servicios, con funciones desacopladas y manejo de estad
 
 ---
 
+## Canal de Atención
+
+DonCade opera mediante un canal institucional de WhatsApp para la recepción de reportes ciudadanos.
+
+> El número se muestra únicamente como referencia de operación real del sistema.
+
+WhatsApp DonCade: +52 81 2702 6952
+
+
+---
+
 ## Estado
 En operación / Evolución continua
