@@ -17,15 +17,15 @@ Estudiante de Seguridad en Tecnologías de la Información, enfocado en:
 
 [Ver carpeta de Certificaciones](./Certificaciones/README.md)
 
-## Estructura del repositorio
-- `/Certificaciones` → Evidencia y detalle
-- `/assets` → Recursos visuales
-- `/Proyectos` → (Fase 2)
-
 ## Proyectos
 
 - **DonCade** — Plataforma de reportes ciudadanos y servicios municipales  
   [Ver proyecto](./Proyectos/DonCade/README.md)
+
+## Estructura del repositorio
+- `/Certificaciones` → Evidencia y detalle
+- `/assets` → Recursos visuales
+- `/Proyectos` → (Fase 2)
 
 ## Contacto
 LinkedIn: https://www.linkedin.com/in/alberto-alanis-b59651331/

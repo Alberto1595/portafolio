@@ -34,6 +34,9 @@ El sistema integra mensajería, formularios web, almacenamiento de documentos y 
 
 Arquitectura orientada a servicios, con funciones desacopladas y manejo de estado conversacional.
 
+![Arquitectura del Sistema DonCade](./assets/arquitectura.png)
+
+
 ---
 
 ## Seguridad
@@ -78,17 +81,34 @@ Arquitectura orientada a servicios, con funciones desacopladas y manejo de estad
 
 ---
 
+## 🧠 Decisiones Técnicas Clave
+
+- **Arquitectura Serverless (Azure Functions):** se eligió para escalar bajo demanda, reducir operación de servidores y facilitar despliegues incrementales por módulo.
+- **Azure SQL como fuente de verdad:** se mantuvo un modelo relacional para consistencia, trazabilidad y reporting (panel administrativo y analítica).
+- **Redis para estado conversacional y performance:** se utilizó para mantener estados por usuario y reducir lecturas repetitivas a SQL en flujos conversacionales, mejorando latencia y concurrencia.
+- **Blob Storage para documentos:** se desacopló la gestión de archivos del modelo relacional, permitiendo almacenamiento escalable de PDFs e imágenes sin degradar el performance de la base de datos.
+- **Separación de canales (WhatsApp / Web):** ambos consumen el mismo backend, evitando duplicidad de lógica y manteniendo una única capa de reglas de negocio.
+- **Diseño orientado a privacidad:** se limita la exposición de datos sensibles en mensajes/respuestas, y se prioriza el almacenamiento seguro y trazable.
+
+---
+
 ## Resultados
+- Más de **10,000 reportes ciudadanos** procesados
+- Atención a **8,000+ usuarios** (vía WhatsApp y Web)
 - Centralización de reportes ciudadanos
-- Reducción de procesos manuales
+- **Reducción del tiempo de respuesta ~80%** mediante automatización y centralización del flujo
 - Mejora en tiempos de respuesta
 - Sistema escalable y mantenible
 - Base sólida para ampliación de servicios municipales
+- Plataforma en operación real y en mejora continua
 
 ---
 
 ## Evidencia Visual
-Screenshots y diagramas anonimizados disponibles en la carpeta `/assets`.
+
+### Panel de Administración (anonimizado)
+![Panel de administración DonCade](./assets/panel_admin_anon.png)
+
 
 ---
 
