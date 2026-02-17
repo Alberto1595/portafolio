@@ -15,12 +15,17 @@ Estudiante de Seguridad en Tecnologías de la Información, enfocado en:
 | Fundamentos de Power BI | Santander Open Academy | Completada | Ver en /Certificaciones/PowerBI |
 | DP-300 – Azure Database Administrator Associate | Microsoft | En progreso | Ver en /Certificaciones/Azure |
 
-➡️ [Ver carpeta de Certificaciones](./Certificaciones/README.md)
+[Ver carpeta de Certificaciones](./Certificaciones/README.md)
 
 ## Estructura del repositorio
 - `/Certificaciones` → Evidencia y detalle
 - `/assets` → Recursos visuales
 - `/Proyectos` → (Fase 2)
+
+## Proyectos
+
+- **DonCade** — Plataforma de reportes ciudadanos y servicios municipales  
+  [Ver proyecto](./Proyectos/DonCade/README.md)
 
 ## Contacto
 LinkedIn: https://www.linkedin.com/in/alberto-alanis-b59651331/
