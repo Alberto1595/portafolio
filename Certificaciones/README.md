@@ -2,4 +2,7 @@
 
 Esta carpeta contiene evidencia y descripción detallada de certificaciones obtenidas y en progreso.
 
-Las certificaciones están organizadas por proveedor.
+## Índice
+- [Fortinet](./Fortinet/README.md)
+- [Power BI](./PowerBI/README.md)
+- [Azure](./Azure/README.md)

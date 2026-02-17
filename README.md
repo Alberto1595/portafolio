@@ -1,34 +1,26 @@
 # Alberto Alanis
 
-Licenciado en seguridad en tecnologias de la informacion enfocado en:
+Estudiante de Seguridad en Tecnologías de la Información, enfocado en:
 
 - Seguridad en infraestructura
 - Azure Cloud
-- Bases de datos
+- Bases de datos (SQL)
 - Automatización con Python
-- Desarrollo de soluciones a gran escanala
+- Desarrollo de soluciones a gran escala
 
----
+## 🎓 Certificaciones
+| Certificación | Proveedor | Estado | Evidencia |
+|---|---|---|---|
+| FAF – Fortinet Associate Fundamentals | Fortinet Training Institute | Completada | Ver en /Certificaciones/Fortinet |
+| Fundamentos de Power BI | Santander Open Academy | Completada | Ver en /Certificaciones/PowerBI |
+| DP-300 – Azure Database Administrator Associate | Microsoft | En progreso | Ver en /Certificaciones/Azure |
 
-## Certificaciones
+➡️ [Ver carpeta de Certificaciones](./Certificaciones/README.md)
 
-### Fortinet
-- FAF – Fortinet Associate Fundamentals
+## 📁 Estructura del repositorio
+- `/Certificaciones` → Evidencia y detalle
+- `/assets` → Recursos visuales
+- `/Proyectos` → (Fase 2)
 
-### Data & Analytics
-- Fundamentos de Power BI – Santander Open Academy
-
-### Microsoft Azure
-- DP-300 – Azure Database Administrator Associate (En progreso)
-
----
-
-## Estructura
-
-- /Certificaciones → Evidencia y detalle
-- /assets → Recursos visuales
-- /Proyectos
----
-
-Contacto  
+## 📫 Contacto
 LinkedIn: https://www.linkedin.com/in/alberto-alanis-b59651331/
