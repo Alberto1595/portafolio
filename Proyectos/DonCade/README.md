@@ -1,6 +1,6 @@
 # DonCade
 
-> ⚠️ El código fuente de este proyecto es privado debido a confidencialidad institucional.  
+> El código fuente de este proyecto es privado debido a confidencialidad institucional.  
 > Este documento describe la arquitectura, decisiones técnicas y resultados del sistema.
 
 ---
@@ -81,7 +81,7 @@ Arquitectura orientada a servicios, con funciones desacopladas y manejo de estad
 
 ---
 
-## 🧠 Decisiones Técnicas Clave
+## Decisiones Técnicas Clave
 
 - **Arquitectura Serverless (Azure Functions):** se eligió para escalar bajo demanda, reducir operación de servidores y facilitar despliegues incrementales por módulo.
 - **Azure SQL como fuente de verdad:** se mantuvo un modelo relacional para consistencia, trazabilidad y reporting (panel administrativo y analítica).
@@ -112,5 +112,5 @@ Arquitectura orientada a servicios, con funciones desacopladas y manejo de estad
 
 ---
 
-## 📝 Estado
+## Estado
 En operación / Evolución continua
