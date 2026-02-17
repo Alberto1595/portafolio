@@ -1,6 +1,6 @@
 # Alberto Alanis
 
-Licenciado en tecnologias de software enfocado en:
+Licenciado en seguridad en tecnologias de la informacion enfocado en:
 
 - Seguridad en infraestructura
 - Azure Cloud
