@@ -27,7 +27,7 @@ Estudiante de Seguridad en Tecnologías de la Información, enfocado en:
 ## Estructura del repositorio
 - `/Certificaciones` → Evidencia y detalle
 - `/assets` → Recursos visuales
-- `/Proyectos` → (Fase 2)
+- `/Proyectos` → Arquitectura
 
 ## Contacto
 LinkedIn: https://www.linkedin.com/in/alberto-alanis-b59651331/
