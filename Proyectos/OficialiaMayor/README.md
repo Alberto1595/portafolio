@@ -117,4 +117,4 @@ Capturas anonimizadas del panel administrativo y flujos disponibles en la carpet
 ---
 
 ## Estado
-🟢 En operación / Evolución continua
+En operación / Evolución continua
