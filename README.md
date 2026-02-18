@@ -14,6 +14,7 @@ Estudiante de Seguridad en Tecnologías de la Información, enfocado en:
 | FAF – Fortinet Associate Fundamentals | Fortinet Training Institute | Completada | [Ver evidencia](./Certificaciones/Fortinet/README.md) |
 | Fundamentos de Power BI | Santander Open Academy | Completada | [Ver evidencia](./Certificaciones/PowerBI/README.md) |
 | DP-300 – Azure Database Administrator Associate | Microsoft | En progreso | [Ver progreso](./Certificaciones/Azure/README.md) |
+| Protección de software y seguridad de la IA | SantanderX | Completada | [Ver progreso](./Certificaciones/SantanderX/README.md) | 
 
 
 [Ver carpeta de Certificaciones](./Certificaciones/README.md)
