@@ -24,6 +24,9 @@ Estudiante de Seguridad en Tecnologías de la Información, enfocado en:
 - **DonCade** — Plataforma de reportes ciudadanos y servicios municipales  
   [Ver proyecto](./Proyectos/DonCade/README.md)
 
+- **Oficialia Mayor** — Plataforma administrativa para tramites y gestion municipal
+  [Ver proyecto](./Proyectos/OficialiaMayor/README.md)
+
 ## Estructura del repositorio
 - `/Certificaciones` → Evidencia y detalle
 - `/assets` → Recursos visuales
