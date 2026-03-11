@@ -15,6 +15,7 @@ Estudiante de Seguridad en Tecnologías de la Información, enfocado en:
 | Fundamentos de Power BI | Santander Open Academy | Completada | [Ver evidencia](./Certificaciones/Santander%20OpenAcademy/README.md) |
 | DP-300 – Azure Database Administrator Associate | Microsoft | En progreso | [Ver progreso](./Certificaciones/Azure/README.md) |
 | Protección de software y seguridad de la IA | SantanderX | Completada | [Ver evidencia](./Certificaciones/SantanderX/Certification.pdf) | 
+| Security Engineer Learning Path | TryHackMe | Completada | [Ver evidencia](./Certificaciones/TryHackme/SecurityEngineer.pdf) | 
 
 
 [Ver carpeta de Certificaciones](./Certificaciones/README.md)
