@@ -20,10 +20,16 @@ Esta sección agrupa las certificaciones técnicas obtenidas y en progreso, orga
 
 ### Santander Open Academy
 - **Fundamentos de Power BI**  
-  [Ver detalle](./SantanderOpenAcademy/README.md)
+  [Ver detalle](./Santander%20OpenAcademy/README.md)
 
 ---
 
 ### Santander X
 - **Protección de software y seguridad de la IA**  
   [Ver detalle](./SantanderX/README.md)
+
+---
+
+### TryHackMe
+- **Security Engineer Learning Path**  
+  [Ver detalle](./TryHackme/README.md)
