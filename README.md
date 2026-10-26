@@ -60,7 +60,16 @@ Mi trabajo combina desarrollo de software con operación de sistemas: diseño ap
 
 ## Proyectos destacados
 
-Los proyectos comerciales e institucionales se presentan como **casos de estudio técnicos**. El código fuente, datos operativos, credenciales y detalles sensibles de infraestructura permanecen privados.
+Los sistemas comerciales e institucionales se presentan como **casos de estudio técnicos** sin exponer código, datos o infraestructura sensible. Los proyectos diseñados expresamente como demostraciones públicas incluyen enlace al código fuente.
+
+### Automotive Showcase — proyecto público
+Monorepo orientado a concesionarias automotrices con tres experiencias independientes: vehículos nuevos, seminuevos premium y seminuevos de valor.
+
+**Tecnologías:** TypeScript, Next.js, React, Tailwind CSS, Node.js, pnpm, Turborepo, Vitest y Playwright.
+
+Además del frontend, demuestra prácticas de ingeniería como paquetes compartidos, separación de dominio y datos, TypeScript estricto, pruebas unitarias y E2E, linting, builds de producción, branches, pull requests, CI y quality gates.
+
+[Ver caso de estudio](./Proyectos/AutomotiveShowcase/README.md) · [Ver código fuente público](https://github.com/Alberto1595/automotive-showcase)
 
 ### POS Botmatica
 Sistema integral de punto de venta multiestablecimiento con aplicaciones Android y web, API REST y servicios desplegados mediante contenedores.
@@ -143,6 +152,8 @@ Parte de mi experiencia corresponde a sistemas institucionales y comerciales en 
 - Información operativa sensible
 - Direcciones IP o topologías internas
 - Configuración detallada de infraestructura de seguridad
+
+Esta restricción no aplica a proyectos creados específicamente como demostraciones públicas, como Automotive Showcase.
 
 ## Estructura del repositorio
 
