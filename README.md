@@ -14,6 +14,9 @@ Mi trabajo combina desarrollo de software con operación de sistemas: diseño ap
 - HTML y CSS responsive
 - Android / Kotlin
 - Automatización de procesos
+- Integración de WhatsApp, correo transaccional y Google Calendar
+- Sitios comerciales, catálogos y experiencias de pedido
+- SEO técnico y local: metadata, datos estructurados y sitemap
 
 ### Datos
 - SQL Server y Azure SQL
@@ -60,7 +63,7 @@ Mi trabajo combina desarrollo de software con operación de sistemas: diseño ap
 
 ## Proyectos destacados
 
-Los proyectos comerciales e institucionales se presentan como **casos de estudio técnicos**. El código fuente, datos operativos, credenciales y detalles sensibles de infraestructura permanecen privados.
+Los proyectos comerciales e institucionales se presentan como **casos de estudio técnicos**. Este portafolio documenta su valor, funcionalidades, decisiones técnicas y mi participación; no incorpora código fuente de las aplicaciones, datos operativos, credenciales ni configuraciones privadas. Cada caso indica si corresponde a un sitio real, una demo o un proyecto en desarrollo.
 
 ### POS Botmatica
 Sistema integral de punto de venta multiestablecimiento con aplicaciones Android y web, API REST y servicios desplegados mediante contenedores.
@@ -102,6 +105,77 @@ Plataforma para registro de asistentes, emisión de boletos mediante códigos QR
 Proyecto en construcción para administración de pacientes, consultas, expedientes clínicos y procesos internos de una clínica.
 
 [Ver caso de estudio](./Proyectos/SistemaClinicoBotmatica/README.md)
+
+### ACCSA Transportes
+Sitio comercial real para suministro y transporte de agua en Nuevo León, con páginas por servicio, contacto directo y formulario de cotización conectado a Azure Functions.
+
+**Tecnologías:** Next.js, React, TypeScript, Tailwind CSS y Azure Functions.
+
+Mi trabajo incluye desarrollo web, integración de solicitudes, organización del contenido comercial, SEO local, datos estructurados y mantenimiento del sitio.
+
+[Ver caso de estudio](./Proyectos/ACCSATransportes/README.md)
+
+### Santo Pecado
+Página real de restaurante con menú digital, selección de variantes, carrito, cálculo de entrega y preparación de pedidos para WhatsApp.
+
+**Tecnologías:** Next.js, React, TypeScript y Tailwind CSS.
+
+Desarrollé la experiencia del menú, las reglas del carrito y el recorrido desde la selección hasta el resumen que recibe el negocio.
+
+[Ver caso de estudio](./Proyectos/SantoPecado/README.md)
+
+### APX Solutions
+Sitio comercial propio para presentar servicios digitales, proyectos y canales de contacto, con una identidad visual y estructura de contenido documentadas.
+
+**Tecnologías:** Next.js, React, TypeScript, Tailwind CSS y Vercel.
+
+[Ver caso de estudio](./Proyectos/APXSolutions/README.md)
+
+### APX Auto
+Demo de panel administrativo para alta y edición de vehículos, fotografías, estados comerciales, indicadores y publicación de inventario mediante una API.
+
+**Tecnologías:** Next.js, TypeScript, PostgreSQL, Supabase y Vercel.
+
+Mi participación abarca modelo de datos, autenticación, panel, almacenamiento de imágenes e integración con el catálogo de Vía Clara.
+
+[Ver caso de estudio](./Proyectos/APXAuto/README.md)
+
+### Showcase Automotriz de APX
+Tres experiencias de demostración: Morrow para autos nuevos, Archivo Norte para seminuevos premium y Vía Clara para búsqueda por precio y características. Incluye filtros, galerías y páginas de detalle, con diseños distintos por segmento.
+
+**Tecnologías:** Next.js, React, TypeScript, pnpm, Turborepo, Vitest y Playwright.
+
+[Ver caso de estudio](./Proyectos/ShowcaseAutomotriz/README.md)
+
+### APX Agenda — Agenda Dental por WhatsApp
+Demo de automatización de reserva, consulta y cancelación de citas, con disponibilidad protegida en base de datos, conversaciones persistentes e integraciones de Calendar y correo.
+
+**Tecnologías:** Node.js, Next.js, PostgreSQL, Supabase, Meta WhatsApp, Google Calendar y Brevo.
+
+Desarrollé el flujo conversacional, las reglas transaccionales de agenda, el procesamiento de mensajes y los mecanismos de deduplicación y recuperación. Su operación e integraciones continúan en validación.
+
+[Ver caso de estudio](./Proyectos/AgendaDental/README.md)
+
+### Web Dental de Demostración
+Página de consultorio diseñada y publicada para presentar una propuesta de atención y dirigir a la agenda por WhatsApp, con menú móvil y preguntas frecuentes.
+
+**Tecnologías:** HTML, CSS, JavaScript y Vercel.
+
+[Ver caso de estudio](./Proyectos/WebDental/README.md)
+
+### Patio 11 — Menú Web y Pedidos por WhatsApp
+Demo comercial no oficial con menú por sucursal, personalización de productos, extras, carrito persistente y continuidad del pedido en WhatsApp mediante validación del lado servidor y transferencia simulada.
+
+**Tecnologías:** JavaScript, HTML, CSS, Node.js, Next.js y PostgreSQL.
+
+[Ver caso de estudio](./Proyectos/Patio11/README.md)
+
+### Brasa Norte
+Demo de restaurante con búsqueda, categorías, variantes, carrito y preparación de pedidos por WhatsApp. Aplicación independiente dentro del monorepo de demostraciones.
+
+**Tecnologías:** Next.js, React, TypeScript y Playwright.
+
+[Ver caso de estudio](./Proyectos/BrasaNorte/README.md)
 
 ## Experiencia en sistemas e infraestructura
 
@@ -152,3 +226,4 @@ Parte de mi experiencia corresponde a sistemas institucionales y comerciales en 
 ## Contacto
 
 [LinkedIn](https://www.linkedin.com/in/alberto-alanis-b59651331/)
+
